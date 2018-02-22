@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <messages id="1">
+    <contents name="a"> 任务目的：开启前往雾村的大门 </contents>
+    <contents name="b"> 条件：先知对话，打到隐形刺客</contents>
+  </messages>
+  <messages id="2">
+    <conntents map="df">我成功改变了你</conntents>
+    <conntents name="a">一二三四</conntents>
+  </messages>
+</objects>
